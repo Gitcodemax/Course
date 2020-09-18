@@ -1,0 +1,25 @@
+body
+{
+    background: white;
+    font-size:16px;
+    margin: 5;
+    padding: 0.5em;
+}
+
+body header
+{
+    background: #378b8b;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
+
+body footer
+{
+    background: #378b8b;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
